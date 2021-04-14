@@ -1,0 +1,13 @@
+# Alacritty Config
+#
+# Vishwesh Patel
+
+# Hot Reload Config
+live_config_reload: true
+
+# Colors:
+colors:
+        primary:
+                background: '#282C34'
+                foreground: '#ABB2BF' 
+        
