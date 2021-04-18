@@ -3,6 +3,7 @@ syntax on
 set nocompatible
 set showmatch
 set nohlsearch
+set nowrap
 
 " Tab Space
 set tabstop=4
