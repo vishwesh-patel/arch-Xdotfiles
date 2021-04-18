@@ -8,3 +8,4 @@ source ~/.config/nvim/config/keybindings.vim
 source ~/.config/nvim/plugin_settings/NERDTree.vim 
 source ~/.config/nvim/plugin_settings/onedark.vim
 source ~/.config/nvim/plugin_settings/fzf.vim
+source ~/.config/nvim/plugin_settings/coc.vim
