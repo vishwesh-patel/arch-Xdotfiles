@@ -9,7 +9,7 @@ call plug#begin(stdpath('data').'/plugged')
     Plug 'junegunn/fzf.vim'
     Plug 'airblade/vim-rooter'
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
+    Plug 'dense-analysis/ale'
     " Plugins still needed
     " floatterm/ranger integration to replace NERDtree
     " easymotion maybe
